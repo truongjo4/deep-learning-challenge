@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# deep-learning
 
 This mini-project focused on the use of neural networks for a binary classification problem within a business context (i.e., whether to provide funding to companies).
 
